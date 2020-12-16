@@ -1,3 +1,4 @@
+#!/bin/bash
 c() {
 	cd $PREFIX/bin
 	if [ -e python ] || [ -e python2 ];then
